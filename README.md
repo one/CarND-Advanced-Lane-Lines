@@ -1,4 +1,10 @@
 ## Advanced Lane Finding
+
+---
+[HERE](https://github.com/one/CarND-Advanced-Lane-Lines/blob/master/writeup.md) you can find the writeup which summarizes my solution for this project.
+The following text is the original content of this README-file.
+---
+
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 
